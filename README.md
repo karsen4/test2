@@ -1,6 +1,6 @@
 # Library of books
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue  
-
+  
+![Python badge]([library.jpg](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) "Python")
 Basic Python Flask web application where users can track the books they've own and read.  
 
 ---
